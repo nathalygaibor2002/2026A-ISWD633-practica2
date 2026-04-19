@@ -8,8 +8,11 @@
 
 La figura presenta el esquema creado en donde los puertos son:
 - a: (completar con el valor)
+   5050
 - b: (completar con el valor)
+  80
 - c: (completar con el valor)
+  5432
 
 ![Imagen](esquema-2-ejercicio.PNG)
 
