@@ -21,6 +21,9 @@ La figura presenta el esquema creado en donde los puertos son:
 
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/52b3f9d4-8d39-4d2b-867f-d127cd09958d" />
 
+<img width="1718" height="879" alt="image" src="https://github.com/user-attachments/assets/f05b00f6-ada7-4f60-a900-06b7f58a6c7a" />
+
+
 
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
